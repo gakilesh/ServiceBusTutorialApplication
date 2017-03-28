@@ -1,5 +1,8 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <jws:workspace xmlns:jws="http://xmlns.oracle.com/ide/project">
+   <hash n="adrs-workspace-properties">
+      <value n="adrs-instance-binding" v="DefaultServer"/>
+   </hash>
    <value n="application-package-prefix" v="com.mycomp"/>
    <value n="appTemplateId" v="sbApplicationAndProjectTemplate"/>
    <hash n="component-versions">
@@ -25,6 +28,7 @@
    </list>
    <list n="listOfChildren">
       <hash><url n="URL" path="ServiceBusApplication/ServiceBusApplication.jpr"/></hash>
+      <hash><url n="URL" path="XYZCommon/XYZCommon.jpr"/></hash>
    </list>
    <hash n="oracle.jdeveloper.deploy.dt.DeploymentProfiles">
       <hash n="profileDefinitions">
