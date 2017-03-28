@@ -13,6 +13,7 @@
         <module>System</module>
         <module>ServiceBusApplication</module>
         <module>XYZCommon</module>
+        <module>XYZCustomer</module>
     </modules>
 
 </project>
